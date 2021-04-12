@@ -15,7 +15,7 @@ Xephula is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  - ~120 million total coins
 
 The rest is the same as Bitcoin.
- - 50 coins per block
+ - 27 coins per block
 
 For more information, as well as an immediately useable, binary version of
 the Xephula client sofware, see http://www.xephula.org.
