@@ -18,7 +18,7 @@ The rest is the same as Bitcoin.
  - 27 coins per block
 
 For more information, as well as an immediately useable, binary version of
-the Xephula client sofware, see http://www.xephula.org.
+the Xephula client sofware, see http://www.xephula.com.
 
 License
 -------
